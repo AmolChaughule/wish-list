@@ -1,0 +1,10 @@
+table tr td {
+  border: 1px solid lightcyan;
+}
+
+table {
+  border-collapse: collapse;
+  margin: auto;
+  background-color:cadetblue;
+  width: 1200px;
+}
